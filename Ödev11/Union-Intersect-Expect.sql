@@ -32,7 +32,7 @@ ORDER BY first_name);
 ORDER BY first_name)
 INTERSECT 
 (SELECT first_name FROM customer 
-ORDER BY first_name); -->intersect zaten yalnızca tekrar eden verileri geitir
+ORDER BY first_name); -->intersect zaten iki tabloda da kesişen verileri getirir
 
 (SELECT first_name FROM actor
 ORDER BY first_name)
