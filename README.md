@@ -1,2 +1,2 @@
 # SQL-HomeWorks
-My homework projects on Patika.dev
+Sql homeworks in Patika.dev courses
